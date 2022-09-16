@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": "8d2fffff-9d6f-4a05-b45c-85e5315bd584",
+      "name": "Chrysanthemum Blooming Plant",
+      "image": "https://www.plants.com/images/r_400_177037ma_20220825-1661447648498.webp",
+      "price": "44.99"
+    },
+    {
+      "id": "4cd7c92b-406f-47af-9396-ed5cf96ee00b",
+      "name": "Chrysanthemum Blooming Plant",
+      "image": "https://www.plants.com/images/r_400_177037ma_20220825-1661447648498.webp",
+      "price": "44.99"
     }
   ]
 }
